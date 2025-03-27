@@ -1,6 +1,6 @@
 {
-  "name": "lord/laroute",
-  "description": "Access Laravels URL/Route helper functions, from JavaScript.",
+  "name": "dozen/laroute",
+  "description": "Forked from lord/laroute to provide continuted laravel support. Access Laravels URL/Route helper functions, from JavaScript.",
   "keywords": [
     "laravel",
     "routes",
